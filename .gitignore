@@ -14,3 +14,10 @@ target/
 .idea/
 .vscode/
 *.iml
+.svn/
+*.bak
+nbproject/private/
+*.sdf
+*.ilk
+*.pdb
+*.suo
