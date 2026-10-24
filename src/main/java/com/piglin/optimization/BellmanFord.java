@@ -44,17 +44,6 @@ public class BellmanFord {
                 u.minDistance = Integer.MAX_VALUE;
             }
             u.previous = null;
-            Iterator it = new Iterator() {
-                @Override
-                public boolean hasNext() {
-                    return false;
-                }
-
-                @Override
-                public Object next() {
-                    return null;
-                }
-            }
         }
 
         // Step 2: relax edges repeatedly

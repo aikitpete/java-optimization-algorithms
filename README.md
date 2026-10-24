@@ -13,6 +13,6 @@ Small, self-contained implementations of classic algorithms, run from `App`:
 | A* search | `AStar.java` |
 | Travelling salesman (nearest-neighbour heuristic) | `TravellingSalesmanProblem.java` |
 
-Build and run: `mvn compile exec:java -Dexec.mainClass=com.piglin.optimization.App` (the demo asks for input on stdin).
+Build and run: `mvn compile` then `java -cp target/classes com.piglin.optimization.App` (the demo asks for input on stdin).
 
 Placeholder files for genetic algorithms, hill climbing, particle swarm, simulated annealing and ant colony were empty and have been removed.
