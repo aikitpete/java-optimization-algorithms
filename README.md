@@ -1,5 +1,7 @@
 # optimization-algorithms
 
+[![License](https://img.shields.io/github/license/aikitpete/java-optimization-algorithms)](LICENSE) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) ![Status](https://img.shields.io/badge/status-reference-lightgrey)
+
 Small, self-contained Java implementations of classic algorithms, run from a demo `App` class.
 
 | Algorithm | File |
